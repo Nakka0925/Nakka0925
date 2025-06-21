@@ -1,14 +1,20 @@
-[![](https://raw.githubusercontent.com/Nakka0925/Nakka0925/main/profile-summary-card-output/prussian/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Nakka0925/Nakka0925/main/profile-summary-card-output/prussian/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Nakka0925/Nakka0925/main/profile-summary-card-output/prussian/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Nakka0925/Nakka0925/main/profile-summary-card-output/prussian/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Nakka0925/Nakka0925/main/profile-summary-card-output/prussian/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="left">
+  <a href="https://github.com/Nakka0925">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Nakka0925" />
+</p>
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Nakka0925&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakka0925&theme=vue-dark&layout=compact" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Nakka0925&theme=neon)
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nakka0925&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nakka0925&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nakka0925&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nakka0925&theme=2077&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Nakka0925&theme=radical)
+
 <!--
 **Nakka0925/Nakka0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
