@@ -14,6 +14,7 @@
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Nakka0925&theme=radical)
+![](https://raw.githubusercontent.com/Nakka0925/Nakka0925/output/github-contribution-grid-snake.svg)
 
 <!--
 **Nakka0925/Nakka0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
